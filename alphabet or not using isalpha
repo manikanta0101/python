@@ -1,0 +1,10 @@
+# alphabet or not using isalpha inbuilt function
+c=input("enter the character:")
+if c.isalpha():
+    print("it is an alphabet")
+else:
+    print("it is not an alphabet")
+
+output:
+enter the character:z
+it is an alphabet
