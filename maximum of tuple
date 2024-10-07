@@ -1,0 +1,7 @@
+# maximum in tuple using inbuilt function called max
+tup=(123,2,5213,12,523,13)
+maximum=max(tup)
+print("maximum of tuple = ",maximum)
+
+output:
+maximum of tuple =  5213
