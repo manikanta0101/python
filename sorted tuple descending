@@ -1,0 +1,7 @@
+# sorted of tuple in descending order
+tup=(2,324,45,1,3523)
+descending=sorted(tup,reverse=True)
+print("sorted tuple = ",tuple(descending))
+
+output:
+sorted tuple =  (3523, 324, 45, 2, 1)
