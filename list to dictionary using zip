@@ -1,0 +1,8 @@
+# convert list to dictionary using zip
+list1=[1,2,3,4]
+list2=['mani','siva','nikhil','nikesh']
+dictionary=dict(zip(list1,list2))
+print("dictionary = ",dictionary)
+
+output:
+dictionary =  {1: 'mani', 2: 'siva', 3: 'nikhil', 4: 'nikesh'}
