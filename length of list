@@ -1,0 +1,7 @@
+# length of list using len function
+my_list=[21,23,1,325,131,42]
+length=len(my_list)
+print("length of list = ",length)
+
+output:
+length of list =  6
