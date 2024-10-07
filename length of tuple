@@ -1,0 +1,7 @@
+# length of tuple using inbuilt function called length
+tup=(23,12,4,1,34124,123)
+length=len(tup)
+print("length of tuple = ",length)
+
+output:
+length of tuple =  6
