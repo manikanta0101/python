@@ -1,0 +1,7 @@
+# sum of tuple using inbuilt funcion called sum
+tup=(123,34,123,412,134)
+add=sum(tup)
+print("sum of tuple = ",add)
+
+output:
+sum of tuple =  826
