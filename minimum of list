@@ -1,0 +1,7 @@
+# minimum of list using inbuilt function called min
+my_list=[123,32,132,323,3232,1]
+minimum=min(my_list)
+print("minimum of list = ",minimum)
+
+output:
+minimum of list =  1
