@@ -1,0 +1,7 @@
+# sort of tuple in ascending order using sort function
+tup=(124,56,12,56,122)
+ascending=sorted(tup)
+print("sorted tuple = ",tuple(ascending))
+
+output:
+sorted tuple =  (12, 56, 56, 122, 124)
