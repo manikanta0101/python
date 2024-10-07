@@ -1,0 +1,7 @@
+# sum of list using inbuilt function called sum
+my_list=[2,3,23,1,34,4,2]
+add=sum(my_list)
+print("sum of my list = ",add)
+
+output:
+sum of my list =  69
