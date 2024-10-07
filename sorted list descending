@@ -1,0 +1,7 @@
+# sort of list in descending order using sort function
+my_list=[234,1,34,135,2,56,64]
+descending=sorted(my_list,reverse=True)
+print("sorted list = ",descending)
+
+output:
+sorted list =  [234, 135, 64, 56, 34, 2, 1]
