@@ -1,0 +1,12 @@
+# positive or negative take input from the user
+n=int(input("enter the number:"))
+if n>0:
+    print("it is an positive number")
+elif n<0:
+    print("it is an negative number")
+else:
+    print("it is equal to zero")
+
+output:
+enter the number:3
+it is an positive number
