@@ -1,0 +1,7 @@
+# length of set using inbuilt function called len
+st={123,34,214,432,112,546,12245}
+length=len(st)
+print("length of set = ",length)
+
+output:
+length of set =  7
