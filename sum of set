@@ -1,0 +1,7 @@
+# sum of set using inbuilt function called sum
+st={123,325,12,45,125,325}
+add=sum(st)
+print("sum of set = ",add)
+
+output:
+sum of set =  630
