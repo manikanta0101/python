@@ -1,0 +1,7 @@
+# sort of list in ascending order using sort function
+my_list=[1,32,45,0,2,634,46,22]
+ascending=sorted(my_list)
+print("sorted list = ",ascending)
+
+output:
+sorted list =  [0, 1, 2, 22, 32, 45, 46, 634]
