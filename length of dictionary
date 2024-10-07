@@ -1,0 +1,7 @@
+# length of dictionary using inbuilt function called len
+dic={1:'mani',2:'siva',3:'nikhil'}
+length=len(dic)
+print("length of dictionary = ",length)
+
+output:
+length of dictionary =  3
