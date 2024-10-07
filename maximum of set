@@ -1,0 +1,7 @@
+# maximum of set using inbuilt function called max
+st={241,56,1,46,35,57,234}
+maximum=max(st)
+print("maximum of set = ",maximum)
+
+output:
+maximum of set =  241
