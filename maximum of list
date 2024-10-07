@@ -1,0 +1,7 @@
+# maximum of list using inbuilt function called max
+my_list=[23,42,1,4,45,234,12,4]
+maximum=max(my_list)
+print("maximum of list = ",maximum)
+
+output:
+maximum of list =  234
