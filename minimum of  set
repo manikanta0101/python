@@ -1,0 +1,7 @@
+# minimum of set using inbuilt function called min
+st={23,45,6,1,345,4531,325,5,56}
+minimum=min(st)
+print("minimum of set = ",minimum)
+
+output:
+minimum of set =  1
