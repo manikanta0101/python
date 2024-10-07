@@ -1,0 +1,7 @@
+# minimum of tuple using inbuilt function called min
+tup=(234,45,1,1234,5234)
+minimum=min(tup)
+print("minimum of tuple = ",minimum)
+
+output:
+minimum of tuple =  1
