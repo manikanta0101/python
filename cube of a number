@@ -1,0 +1,8 @@
+# cube of a number take input from the user
+n=int(input("enter the number:"))
+cube=n*n*n
+print("cube of a number = ",cube)
+
+output:
+enter the number:2
+cube of a number =  8
