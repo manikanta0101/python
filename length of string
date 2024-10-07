@@ -1,0 +1,8 @@
+# length of string take input from the user
+s=input("enter the string:")
+length=len(s)
+print("length of string = ",length)
+
+output:
+enter the string:Mani kanta
+length of string =  10
