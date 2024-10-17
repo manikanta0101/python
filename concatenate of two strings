@@ -1,0 +1,9 @@
+# python program to concatenate of two strings using '+'
+s1=input("enter the first string:")
+s2=input("enter the second string:")
+print("concatenate of two strings = ",s1+" "+s2)
+
+output:
+enter the first string:python
+enter the second string:programming
+concatenate of two strings =  python programming
