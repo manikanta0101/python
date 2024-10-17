@@ -1,0 +1,13 @@
+# python program for modulo division of two numbers take input from the user
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+if n2!=0:
+    remainder=n1%n2
+    print("Modulo division of two numbers = ",remainder)
+else:
+    print("Error! moduo division not possible")
+
+output:
+enter the first number:4
+enter the second number:2
+Modulo division of two numbers =  0
