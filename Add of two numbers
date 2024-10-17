@@ -1,0 +1,7 @@
+# python program to add two numbers
+n1=5
+n2=3
+print("Add of two numbers = ",n1+n2)
+
+output:
+Add of two numbers =  8
