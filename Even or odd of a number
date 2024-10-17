@@ -1,0 +1,10 @@
+# python program for even or odd of a number take input from the user
+n=int(input("enter the number:"))
+if n%2==0:
+    print("It is an even number")
+else:
+    print("It is an odd number")
+
+output:
+enter the number:4
+It is an even number
