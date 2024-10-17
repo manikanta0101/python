@@ -1,0 +1,8 @@
+# python program for cube of a number take input from the input
+n=int(input("enter the number:"))
+cube=n*n*n
+print("Cube of a number = ",cube)
+
+output:
+enter the number:2
+Cube of a number =  8
