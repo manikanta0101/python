@@ -1,0 +1,16 @@
+# python program for finding quotient and remainder take input from the user
+dividend=int(input("enter the dividend value:"))
+divisor=int(input("enter the divisior value:"))
+if divisor!=0:
+    quotient=dividend/divisor
+    remainder=dividend%divisor
+    print("Quotient = ",quotient)
+    print("Remainder = ",remainder)
+else:
+    print("Error! quotient and remainder not possible")
+
+output:
+enter the dividend value:4
+enter the divisior value:2
+Quotient =  2.0
+Remainder =  0
