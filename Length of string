@@ -1,0 +1,8 @@
+# python program to check the length of string take input from the user
+name=input("enter the string:")
+length=len(name)
+print("Length of string = ",length)
+
+output:
+enter the string:python programming
+Length of string =  18
