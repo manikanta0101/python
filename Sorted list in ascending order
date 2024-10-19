@@ -1,0 +1,7 @@
+# python program for sort the list in ascending order
+my_list=[21,34,54,1,436,654,214]
+my_list.sort()
+print("Sorted list in ascending order is = ",my_list)
+
+output:
+Sorted list in ascending order is =  [1, 21, 34, 54, 214, 436, 654]
