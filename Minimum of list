@@ -1,0 +1,7 @@
+# python program for finding the minimum of list given
+my_list=[21,34,54,1,436,654,214]
+minimum=min(my_list)
+print("Minimum of list = ",minimum)
+
+output:
+Minimum of list =  1
