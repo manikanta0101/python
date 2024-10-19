@@ -1,0 +1,7 @@
+# python program to find the length of the list
+my_list=[21,34,54,1,436,654,214]
+length=len(my_list)
+print("Length of list = ",length)
+
+output:
+Length of list =  7
