@@ -1,0 +1,7 @@
+# python program to find the sum of list given
+my_list=[21,34,54,1,436,654,214]
+add=sum(my_list)
+print("Sum of list = ",add)
+
+output:
+Sum of list =  1414
