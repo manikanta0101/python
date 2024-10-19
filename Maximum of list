@@ -1,0 +1,7 @@
+# python program to find maximum of list given
+my_list=[21,34,54,1,436,654,214]
+maximum=max(my_list)
+print("Maximum of list = ",maximum)
+
+output:
+Maximum of list =  654
