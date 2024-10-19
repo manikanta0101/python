@@ -1,0 +1,7 @@
+# python program for sorting of list in descending order
+my_list=[21,34,54,1,436,654,214]
+my_list.sort(reverse=True)
+print("Sorted of list in descending order is = ",my_list)
+
+output:
+Sorted of list in descending order is =  [654, 436, 214, 54, 34, 21, 1]
