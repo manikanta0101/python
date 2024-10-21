@@ -1,0 +1,7 @@
+# python program to sort the tuple in ascending order
+tuple_1=(324,56,34,56,23,65,4134,2345,5632)
+ascending=sorted(tuple_1)
+print("Sorted of tuple in ascending order = ",tuple(ascending))
+
+output:
+Sorted of tuple in ascending order =  (23, 34, 56, 56, 65, 324, 2345, 4134, 5632)
