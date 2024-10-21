@@ -1,0 +1,7 @@
+# python program to find the sum of tuple
+tuple_1=(324,56,34,56,23,65,4134,2345,5632)
+addition=sum(tuple_1)
+print("Sum of tuple = ",addition)
+
+output:
+Sum of tuple =  12669
