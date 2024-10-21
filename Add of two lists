@@ -1,0 +1,8 @@
+# python program to add two lists
+my_list1=[213,324,124,54,3134]
+my_list2=[45,65,14,67,214]
+concatenate=my_list1+my_list2
+print("Add of two lists = ",concatenate)
+
+output:
+Add of two lists =  [213, 324, 124, 54, 3134, 45, 65, 14, 67, 214]
