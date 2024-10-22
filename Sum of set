@@ -1,0 +1,7 @@
+# python program to add elements in a set
+s1={234,324,54,6,1324,67,435,234,6,43}
+add=sum(s1)
+print("Sum of set = ",add)
+
+output:
+Sum of set =  2487
