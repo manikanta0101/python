@@ -1,0 +1,7 @@
+# python program to find the length of set
+s1={234,324,54,6,1324,67,435,234,6,43}
+length=len(s1)
+print("Length of set = ",length)
+
+output:
+Length of set =  8
