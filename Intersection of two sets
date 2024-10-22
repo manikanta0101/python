@@ -1,0 +1,8 @@
+# python program for intersection of two sets
+s1={1,2,3,4,5}
+s2={6,7,3,8,2}
+s3=s1.intersection(s2)
+print("Intersection of two sets = ",s3)
+
+output:
+Intersection of two sets =  {2, 3}
