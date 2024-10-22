@@ -1,0 +1,7 @@
+# python program to find the maximum element in a set
+s1={234,324,54,6,1324,67,435,234,6,43}
+maximum=max(s1)
+print("Maximum of set = ",maximum)
+
+output:
+Maximum of set =  1324
