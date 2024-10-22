@@ -1,0 +1,7 @@
+# python program to find the minimum of set
+s1={234,324,54,6,1324,67,435,234,6,43}
+minimum=min(s1)
+print("Minimum of set = ",minimum)
+
+output:
+Minimum of set =  6
