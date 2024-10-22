@@ -1,0 +1,16 @@
+# python program to take elements of list from the user and print the list
+list_1=[]
+n=int(input("enter the number of elements you want:"))
+for i in range(n):
+    s=input(f"enter the {i+1} element:")
+    list_1.append(s)
+print(list_1)
+
+output:
+enter the number of elements you want:5
+enter the 1 element:1
+enter the 2 element:2
+enter the 3 element:3
+enter the 4 element:4
+enter the 5 element:5
+['1', '2', '3', '4', '5']
