@@ -1,0 +1,10 @@
+# python program to square of a given list
+list_1=[10,20,30,40,50]
+list_2=[]
+for i in list_1:
+    s=i**2
+    list_2.append(s)
+print("Square of a list = ",list_2)
+
+output:
+Square of a list =  [100, 400, 900, 1600, 2500]
