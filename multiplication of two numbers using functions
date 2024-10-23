@@ -1,0 +1,12 @@
+# python program for multiplication of two numbers using functions
+def my_function(n1,n2):
+    n3=n1*n2
+    print("Multiplication of two numbers = ",n3)
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+my_function(n1,n2)
+
+output:
+enter the first number:2
+enter the second number:3
+Multiplication of two numbers =  6
