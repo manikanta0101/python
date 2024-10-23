@@ -1,0 +1,12 @@
+# python program to find even or odd using functions
+def my_function(n):
+    if n%2==0:
+        print("it is an even number")
+    else:
+        print("it is an odd number")
+n=int(input("enter the number:"))
+my_function(n)
+
+output:
+enter the number:6
+it is an even number
