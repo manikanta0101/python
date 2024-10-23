@@ -1,0 +1,14 @@
+# python program to find positive or negative using functions
+def my_function(n):
+    if n>0:
+        print("it is an positive number")
+    elif n<0:
+        print("it is an negative number")
+    else:
+        print("it is equal to zero")
+n=int(input("enter the number:"))
+my_function(n)
+
+output:
+enter the number:3
+it is an positive number
