@@ -1,0 +1,10 @@
+# python program for div of two numbers using functions
+def my_function(a,b):
+    div=a/b
+    print("Div of two numbers = ",div)
+a=10
+b=2
+my_function(a,b)
+
+output:
+Div of two numbers =  5.0
