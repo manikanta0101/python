@@ -1,0 +1,10 @@
+# python program to find sub of two numbers using functions
+def my_function(a,b):
+    sub=a-b
+    print("Sub of two numbers = ",sub)
+a=10
+b=5
+my_function(a,b)
+
+output:
+Sub of two numbers =  5
