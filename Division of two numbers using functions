@@ -1,0 +1,15 @@
+# python program for division of two numbers using functions
+def my_function(n1,n2):
+    if n2!=0:
+        n3=n1/n2
+        print("Division of two numbers = ",n3)
+    else:
+        print("Error! division not possible")
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+my_function(n1,n2)
+
+output:
+enter the first number:4
+enter the second number:2
+Division of two numbers =  2.0
