@@ -1,0 +1,12 @@
+# python program to concatenate two strings using functions
+def my_function(s1,s2):
+    concatenate=s1+s2
+    print("Concatenate of two strings = ",concatenate)
+s1=input("enter the first string:")
+s2=input("enter the second string:")
+my_function(s1,s2)
+
+output:
+enter the first string:java
+enter the second string:programming
+Concatenate of two strings =  javaprogramming
