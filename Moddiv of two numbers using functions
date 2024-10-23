@@ -1,0 +1,10 @@
+# python program to find moddiv of two numbers using functions
+def my_function(a,b):
+    moddiv=a%b
+    print("Moddiv of two numbers = ",moddiv)
+a=10
+b=2
+my_function(10,2)
+
+output:
+Moddiv of two numbers =  0
