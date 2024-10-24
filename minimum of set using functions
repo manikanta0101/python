@@ -1,0 +1,9 @@
+# python program for minimum of set using functions
+def my_function(s1):
+    minimum=min(s1)
+    print("minimum of set = ",minimum)
+s1={23,54,34645,235,654,325}
+my_function(s1)
+
+output:
+minimum of set =  23
