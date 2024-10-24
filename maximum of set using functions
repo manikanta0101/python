@@ -1,0 +1,9 @@
+# python program for maximum of set using functions
+def my_function(s1):
+    maximum=max(s1)
+    print("maximum of set = ",maximum)
+s1={23,54,34645,235,654,325}
+my_function(s1)
+
+output:
+maximum of set =  34645
