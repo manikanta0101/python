@@ -1,0 +1,9 @@
+# python program for sum of list using functions
+def my_function(list_1):
+    add=sum(list_1)
+    print("sum of list = ",add)
+list_1=[213,45,23,5,134,56,213,56]
+my_function(list_1)
+
+output:
+sum of list =  745
