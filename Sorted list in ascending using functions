@@ -1,0 +1,9 @@
+# python program for sort of list in ascending order using functions
+def my_function(list_1):
+    ascending=sorted(list_1)
+    print("Sorted list in ascending = ",ascending)
+list_1=[213,45,23,5,134,56,213,56]
+my_function(list_1)
+
+output:
+Sorted list in ascending =  [5, 23, 45, 56, 56, 134, 213, 213]
