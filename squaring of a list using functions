@@ -1,0 +1,12 @@
+# python program for squaring of a list using functions
+def my_function(list1):
+    list2=[]
+    for i in list1:
+        s=i**2
+        list2.append(s)
+    print("Squared list = ",list2)
+list1=[10,20,30,40,50]
+my_function(list1)
+
+output:
+Squared list =  [100, 400, 900, 1600, 2500]
