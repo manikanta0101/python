@@ -1,0 +1,9 @@
+# python program for finding minimum of list
+def my_function(list_1):
+    minimum=min(list_1)
+    print("minimum of list = ",minimum)
+list_1=[213,45,23,5,134,56,213,56]
+my_function(list_1)
+
+output:
+minimum of list =  5
