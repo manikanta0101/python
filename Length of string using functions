@@ -1,0 +1,10 @@
+# python program to find the length of string using functions
+def my_function(c):
+    length=len(c)
+    print("Length of string = ",length)
+c=input("enter the string:")
+my_function(c)
+
+output:
+enter the string:python
+Length of string =  6
