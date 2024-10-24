@@ -1,0 +1,9 @@
+# python program for maximum of list using functions
+def my_function(list_1):
+    maximum=max(list_1)
+    print("maximum of list = ",maximum)
+list_1=[213,45,23,5,134,56,213,56]
+my_function(list_1)
+
+output:
+maximum of list =  213
