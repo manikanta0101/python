@@ -1,0 +1,9 @@
+# python program for length of set using functions
+def my_function(s1):
+    length=len(s1)
+    print("length of set = ",length)
+s1={23,54,34645,235,654,325}
+my_function(s1)
+
+output:
+length of set =  6
