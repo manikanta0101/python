@@ -1,0 +1,9 @@
+# python program for minimum of tuple using functions
+def my_function(tup_1):
+    minimum=min(tup_1)
+    print("minimum of tuple = ",minimum)
+tup_1=(1312,4,5,21,6,1324,65,12)
+my_function(tup_1)
+
+output:
+minimum of tuple =  4
