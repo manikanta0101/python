@@ -1,0 +1,10 @@
+# python program for intersection of set using functions
+def my_function(s1,s2):
+    inter=s1.intersection(s2)
+    print("intersection of two sets = ",inter)
+s1={1,2,3,4,5}
+s2={3,4,6,9}
+my_function(s1,s2)
+
+output:
+intersection of two sets =  {3, 4}
