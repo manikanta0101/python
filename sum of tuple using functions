@@ -1,0 +1,9 @@
+# python program for sum of tuple
+def my_function(tup_1):
+    add=sum(tup_1)
+    print("sum of tuple = ",add)
+tup_1=(1312,4,5,21,6,1324,65,12)
+my_function(tup_1)
+
+output:
+sum of tuple =  2749
