@@ -1,0 +1,14 @@
+# python program for upper or lowercase using isupper or islower and functions
+def my_function(c):
+    if c.isupper():
+        print("it is an uppercase alphabet")
+    elif c.islower():
+        print("it is an lowercase alphabet")
+    else:
+        print("it is not an alphabet")
+c=input("enter the character:")
+my_function(c)
+
+output:
+enter the character:s
+it is an lowercase alphabet
