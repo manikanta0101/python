@@ -1,0 +1,9 @@
+# python program for sort of list in descending using functions
+def my_function(list_1):
+    descending=sorted(list_1,reverse=True)
+    print("sorted of list in descending = ",descending)
+list_1=[213,45,23,5,134,56,213,56]
+my_function(list_1)
+
+output:
+sorted of list in descending =  [213, 213, 134, 56, 56, 45, 23, 5]
