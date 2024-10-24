@@ -1,0 +1,9 @@
+# python program for sum of set using function
+def my_function(s1):
+    add=sum(s1)
+    print("sum of set = ",add)
+s1={2,43,51234,435,12,54,214}
+my_function(s1)
+
+output:
+sum of set =  51994
