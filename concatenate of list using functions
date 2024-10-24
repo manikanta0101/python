@@ -1,0 +1,10 @@
+# python program for concatenate of two list using functions
+def my_function(list_1,list_2):
+    concatenate=list_1+list_2
+    print("concatenate of lists = ",concatenate)
+list_1=[1,2,3,4,5]
+list_2=[6,7,8,9,10]
+my_function(list_1,list_2)
+
+output:
+concatenate of lists =  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
