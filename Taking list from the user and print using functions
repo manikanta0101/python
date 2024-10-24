@@ -1,0 +1,16 @@
+# python program for taking list from the user and print using functions
+def my_function(list_1):
+    for i in range(n):
+        s=input(f"enter the {i+1} element:")
+        list_1.append(s)
+    print("List = ",list_1)
+n=int(input("enter the number of elements in a list:"))
+list_1=[]
+my_function(list_1)
+
+output:
+enter the number of elements in a list:3
+enter the 1 element:3
+enter the 2 element:4
+enter the 3 element:5
+List =  ['3', '4', '5']
