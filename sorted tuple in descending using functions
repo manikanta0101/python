@@ -1,0 +1,9 @@
+# python program for sorted tuple in descending using functions
+def my_function(tup_1):
+    descending=sorted(tup_1,reverse=True)
+    print("sorted of tuple in descending = ",tuple(descending))
+tup_1=(1312,4,5,21,6,1324,65,12)
+my_function(tup_1)
+
+output:
+sorted of tuple in descending =  (1324, 1312, 65, 21, 12, 6, 5, 4)
